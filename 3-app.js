@@ -67,20 +67,3 @@ let enableBoxes= () => {
 
 resetButton.addEventListener("click", resetGame);
 newButton.addEventListener("click", resetGame);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
